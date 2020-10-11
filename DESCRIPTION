@@ -3,7 +3,7 @@ Title: Communicating with Data Resources
 Version: 0.0.0.9000
 Authors@R: 
     person(given = "Mayunk",
-           family = "Bharadwaj,
+           family = "Bharadwaj",
            role = c("aut", "cre"),
            email = "mbha0014@student.monash.edu",
            comment = c(ORCID = "YOUR-ORCID-ID"))
@@ -15,3 +15,5 @@ Roxygen: list(markdown = TRUE)
 RoxygenNote: 7.1.1
 URL: https://github.com/mayunk264/cwdata
 BugReports: https://github.com/mayunk264/cwdata/issues
+Depends: 
+    R (>= 2.10)
